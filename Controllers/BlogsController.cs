@@ -33,7 +33,6 @@ namespace BlogsApp.Controllers
         }
         
 
-
         // POST: Blogs/ShowSearchResults
         public async Task<IActionResult> ShowSearchResults(String SearchPhrase)
         {
